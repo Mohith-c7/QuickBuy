@@ -51,7 +51,7 @@ export default function Header() {
       )}
 
       <header className="border-b py-4">
-        <div className="container mx-auto px-[100px] flex items-center justify-between">
+        <div className="container mx-auto px-4 md:px-[100px] flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold">
             QuickBuy
           </Link>
