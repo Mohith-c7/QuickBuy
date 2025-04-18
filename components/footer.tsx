@@ -7,7 +7,11 @@ export default function Footer() {
   return (
     <>
       <section className="py-12 bg-black text-white">
+<<<<<<< HEAD
         <div className="container mx-auto px-[100px]">
+=======
+        <div className="container mx-auto px-4 md:px-[100px]">
+>>>>>>> 65872114baca493f62c29b683cb35eed8ecf1397
           <div className="max-w-xl mx-auto">
             <h2 className="text-2xl font-bold mb-6">
               STAY UPTO DATE ABOUT
@@ -29,7 +33,11 @@ export default function Footer() {
       </section>
 
       <footer className="py-12 border-t">
+<<<<<<< HEAD
         <div className="container mx-auto px-[100px]">
+=======
+        <div className="container mx-auto px-4 md:px-[100px]">
+>>>>>>> 65872114baca493f62c29b683cb35eed8ecf1397
           <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
             <div className="md:col-span-2">
               <Link href="/" className="text-2xl font-bold mb-4 block">
